@@ -1,2 +1,5 @@
 node_modules/
 bower_components/
+server/auth/github.oauth.js
+server/auth/google.oauth.js
+server/auth/twitter.oauth.js
